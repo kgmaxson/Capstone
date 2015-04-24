@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Obstacle(int,\ int)
+comment0.text=\r\nConstructor\ for\ objects\ of\ class\ Obstacle\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Draws\ the\ obstacle\r\n\r\n\ @post\ \ \ \ Obstacle\ is\ drawn\r\n\r\n
+numComments=2

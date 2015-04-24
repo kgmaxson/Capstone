@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Background()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Background\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Creates\ a\ rectangle\ filled\ with\ a\ gradient\ as\ the\ background\r\n\ It\ is\ the\ size\ of\ the\ window\r\n\r\n\ @post\ \ \ \ background\ created\r\n
+numComments=2

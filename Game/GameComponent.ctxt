@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameComponent()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Creates\ and\ draws\ the\ rectangles,\ obstacles,\ frog,\ and\ background\r\n\r\n\ @post\ \ \ \ objects\ are\ created\ and\ drawn,\ repaints\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Method\ that\ runs\ each\ frame.\ \ It\ changes\ the\ x\ coordinates\ of\ the\ rectangles\ and\ obstacles.\ Changes\ the\ next\ level\ class.\ Increments\ the\ timer,\r\n\r\n\ @post\ \ \ \ obstacles\ moved,\ score\ updated,\ next\ level\ condition\ checked\r\n
+numComments=3

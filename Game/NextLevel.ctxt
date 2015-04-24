@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NextLevel()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Timer\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Draws\ the\ level\ and\ increase\ speed\ strings\r\n\r\n\ @post\ \ \ \ level\ number\ and\ increase\ speed\ drawn\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Decrements\ the\ countdown\r\n\r\n\ @post\ \ \ \ Countdown\ decremented\r\n
+comment3.params=
+comment3.target=void\ reset()
+comment3.text=\r\n\ Countdown\ is\ reset\ to\ 4\ and\ the\ game\ level\ is\ incremented\r\n\r\n\ @post\ \ \ \ countdown\ is\ reset\ and\ the\ game\ level\ is\ incremented\r\n\r\n
+numComments=4

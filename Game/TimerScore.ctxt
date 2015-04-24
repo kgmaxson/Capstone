@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TimerScore()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Timer\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \ \ \ that\ describes\ the\ operation\ of\ the\ method\r\n\ @post\ \ \ \ score\ displayed\r\n\ @param\ \ \ \ Graphics2D\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Increments\ the\ score\r\n\r\n\ @post\ \ \ \ score\ is\ incremented\ by\ 1\r\n\r\n
+numComments=3
